@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"LucasNumbersProgram","l":"generateLucasNumbers(int)","k":"6"},{"p":"<Unnamed>","c":"LucasNumbersProgram","l":"LucasNumbersProgram()","u":"%3Cinit%3E()","k":"3"},{"p":"<Unnamed>","c":"LucasNumbersProgram","l":"main(String[])","u":"main(java.lang.String[])","k":"6"}];updateSearchResults();
